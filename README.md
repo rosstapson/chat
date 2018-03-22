@@ -1,1 +1,1 @@
-# chat
+# chat server written in go
